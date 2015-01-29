@@ -1,0 +1,9 @@
+Element-Slabiciune-avantaj
+foc - apa - natura
+apa - natura - foc
+natura - foc - apa
+vant - foc - apa
+piatra - apa - foc
+magia - toate - toate
+lumina - natura - intuneric
+intuneric - lumina - natura
